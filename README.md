@@ -1,4 +1,5 @@
-# MNIST High Accuracy model
+# MNIST High Accuracy model\
+--------------------------------------------------------------------------------
 A simple model to train and use for reading zipcodes (mnist dataset)
 clone the git in your console by writing : git clone ''
 open your virutal enviroment
