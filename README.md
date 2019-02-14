@@ -1,5 +1,5 @@
 # MNIST High Accuracy model
---------------------------------------------------------------------------------
+
 Train The model Easily! And use Easily!
 --------------------------------------------------------------------------------
 A simple model to train and use for reading zipcodes (mnist dataset)
